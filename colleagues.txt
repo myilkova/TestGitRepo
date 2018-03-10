@@ -1,0 +1,15 @@
+Colleague1: Petya Dragomirova Gospodinova
+From1: Plovdiv
+Info1: pirin enthusiast
+
+Colleague2: Ekaterin Kostadinov Kostadinov
+From2: Burgas
+Info2: Korabovodene, TU Varna
+
+Colleague3: Angel Dimitrov Tenev
+From3: Ivaylovgrad
+Info3: no info
+
+Colleague4: Georgi Ivaylov Simeonov
+From4: Vratza
+Info4: nice picture
